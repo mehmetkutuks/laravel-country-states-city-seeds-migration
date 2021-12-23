@@ -3723,7 +3723,6 @@ public function run()
 		array('name' => "Karabuk",'country_id' => 223),
 		array('name' => "Karaman",'country_id' => 223),
 		array('name' => "Kars",'country_id' => 223),
-		array('name' => "Karsiyaka",'country_id' => 223),
 		array('name' => "Kastamonu",'country_id' => 223),
 		array('name' => "Kayseri",'country_id' => 223),
 		array('name' => "Kilis",'country_id' => 223),
